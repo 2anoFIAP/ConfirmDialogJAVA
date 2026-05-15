@@ -18,13 +18,13 @@ public class VigiaNoturno implements Funcionario{
     public void setNome(String nome) {
         this.nome = nome;
     }
-    public Float getValorHoraTrabalho() {
+    public float getValorHoraTrabalho() {
         return valorHoraTrabalho;
     }
     public void setValorHoraTrabalho(Float valorHoraTrabalho) {
         this.valorHoraTrabalho = valorHoraTrabalho;
     }
-    public Float getAdicionalNoturno() {
+    public float getAdicionalNoturno() {
         return adicionalNoturno;
     }
     public void setAdicionalNoturno(Float adicionalNoturno) {
