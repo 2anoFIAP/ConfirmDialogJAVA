@@ -1,3 +1,5 @@
+package br.com.fiap.main;
+
 import javax.swing.*;
 
 public class Main {
